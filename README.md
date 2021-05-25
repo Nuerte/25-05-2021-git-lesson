@@ -1,4 +1,4 @@
-# 25 maja 2021 - zajęcia z Gita
+# 25 maja 2021 - podstawy z GITa:
  
 - `git init` : inicjuje repo git w danym katalogu
 - `git status` : wyświetla informacje o repo
@@ -24,7 +24,7 @@
 - `git push <WHERE> <WHAT>` : local repo -> remote
 - `git pull <WHERE> <WHAT>` : remote repo -> local
 
-## Branches:
+## branches:
  
 How to fix master -> main
  1. `git checkout -b main`
