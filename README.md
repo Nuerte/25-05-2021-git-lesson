@@ -7,3 +7,4 @@
      - 'git commit -m "MESSAGE"': Dodaje commit z waidomościa <MESSAGE>
 - 'git log' : Pokazuje historię logów
     - 'git log -oneline' : Zwięzła wersja
+- 'git diff' : Pokazuje różnice w plikach między obecną wersją, a poprzednnią w repo
