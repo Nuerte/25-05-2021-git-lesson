@@ -17,3 +17,10 @@
 
 - `.gitignore` : Plik z listą regexpow plików, których nie umieszcza się w commicie
 - `.gitkeep` : Konwencja - by dodać katalogi (katalogi puste nie sa dodawane)
+
+## Remotes:
+
+- `git remote add <NAME> <URL>` : <NAME> zwykle to "origin", URL - to repo do githuba
+- `git push <WHERE> <WHAT>` : local repo -> remote
+- `git pull <WHERE> <WHAT>` : remote repo -> local
+
