@@ -1,4 +1,4 @@
-# 25 maja 2021 - podstawy z GITa:
+# GIT OVERVIEW
  
 - `git init` : inicjuje repo git w danym katalogu
 - `git status` : wyświetla informacje o repo
@@ -18,13 +18,13 @@
 - `.gitignore` : Plik z listą regexpow plików, których nie umieszcza się w commicie
 - `.gitkeep` : Konwencja - by dodać katalogi (katalogi puste nie sa dodawane)
 
-## Remotes:
+## REMOTES:
 
 - `git remote add <NAME> <URL>` : <NAME> zwykle to "origin", URL - to repo do githuba
 - `git push <WHERE> <WHAT>` : local repo -> remote
 - `git pull <WHERE> <WHAT>` : remote repo -> local
 
-## branches:
+## BRANCHES:
  
 How to fix master -> main
  1. `git checkout -b main`
